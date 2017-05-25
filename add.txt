@@ -1,0 +1,1 @@
+hudson.plugins.git.GitException:  returned status code -1
